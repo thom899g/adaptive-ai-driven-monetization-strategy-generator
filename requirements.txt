@@ -1,0 +1,22 @@
+# Core Libraries
+pandas==2.1.4
+numpy==1.23.5
+requests==2.31.0
+scikit-learn==1.1.1
+ipython==8.11.0
+
+# Data Processing and Analysis
+pymongo==3.12.0
+datetime==4.7.0
+
+# Genetic Algorithms and Optimization
+deap==1.3.0
+random==1.7.2
+
+# Logging and Monitoring
+logging==0.9.5
+prometheus-client==0.16.0
+
+# Documentation Generation
+sphinx==5.0.2
+numpydoc==1.2.0
